@@ -82,6 +82,7 @@ main {
 /* triangolino */
 .textbig ::before {
     content: "\25bc" ;
+    font-size: 18px;
 }
 /* fontgrandi */
 .textbig {
