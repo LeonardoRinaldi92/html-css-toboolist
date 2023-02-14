@@ -18,3 +18,44 @@
     font-size: 40px;
     display: inline-block;
 }
+
+main {
+    background-color: #f6f8f9;
+}
+
+.cntr {
+    width: 80%;
+    margin: auto;
+}
+
+.container-top {
+    border-radius: 5px 5px 0px 0px;
+}
+
+.container-bottom {
+    border-radius: 0px 0px 5px 5px;
+    margin-top: 1px;
+}
+
+.grey-top-button , .cntr {
+    background-color: white;
+    }
+
+.button {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.blue-top-button {
+    background-color: #47adf1;
+    color: white;
+}
+
+.grey-top-button {
+    color: #d0d5d8;
+    border: 1px solid #d0d5d8;
+}
+
+
+
