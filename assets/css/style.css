@@ -3,4 +3,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.boxlogo {
+    margin: 10px 20px;
+}
+
+.logo {
+    vertical-align:top;
+}
+
+.title {
+    font-size: 40px;
+    display: inline-block;
 }
