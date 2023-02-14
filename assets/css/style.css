@@ -7,10 +7,12 @@
     list-style: none;
 }
 
+/* marginiperlogo */
 .boxlogo {
     margin: 10px 20px;
 }
 
+/* allineamento verticalelogo */
 .logo {
     vertical-align:top;
 }
@@ -20,32 +22,34 @@
     display: inline-block;
 }
 
+/* colore sfondo */
 main {
     background-color: #f6f8f9;
 }
 
-/* .margin-l{
-    margin-left: 20px;
-} */
-
+/* dimensione container principale */
 .cntr {
     width: 80%;
     margin: auto;
 }
 
+/* angoli container top */
 .container-top {
     border-radius: 5px 5px 0px 0px;
 }
 
+/* angoli container bottom */
 .container-bottom {
     border-radius: 0px 0px 5px 5px;
     margin-top: 1px;
 }
 
+/* sfondobianco */
 .grey-top-button , .cntr {
     background-color: white;
     }
 
+/* forma bottoni */
 .button {
     padding: 8px 12px;
     border-radius: 5px;
@@ -60,18 +64,21 @@ main {
     color: white;
 }
 
+/* primobottone */
 .top-button {
     background-color: #47adf1;
     color: white;
 }
 
+/* secondobottone */
 .grey-top-button {
     color: #d0d5d8;
     border: 1px solid #d0d5d8;
 }
 
+triangolino
 .textbig ::before {
-    content: "\27A5" ;
+    content: "\25bc" ;
 }
 
 .textbig {
