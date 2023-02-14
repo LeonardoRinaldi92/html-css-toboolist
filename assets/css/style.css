@@ -24,9 +24,9 @@ main {
     background-color: #f6f8f9;
 }
 
-.margin-l{
+/* .margin-l{
     margin-left: 20px;
-}
+} */
 
 .cntr {
     width: 80%;
@@ -52,7 +52,15 @@ main {
     border: 0;
 }
 
-.blue-top-button {
+.blue {
+    background-color: #47adf1
+}
+
+.textwhite {
+    color: white;
+}
+
+.top-button {
     background-color: #47adf1;
     color: white;
 }
@@ -77,6 +85,32 @@ main {
 
 li  {
     margin-bottom: 10px;
+}
+
+.pills {
+    padding: 6px 10px;
+    border-radius: 25px;
+    border: 0;
+}
+
+.violet {
+    background-color: #9c72e4;
+}
+
+.darkgreen {
+    background-color: #64c0a9;
+}
+
+.orange {
+background-color: #f29e33;
+}
+
+.pink {
+    background-color: #d863a1;
+}
+
+.lightgreen {
+    background-color:#b0c926 ;
 }
 
 .checked {
@@ -109,3 +143,10 @@ li  {
 .unchecked::after {
     content: "\2718";
 }
+
+/* .pills::after {
+    content: "";
+    background-color: #47adf1;
+    color: white;
+    bo
+} */
