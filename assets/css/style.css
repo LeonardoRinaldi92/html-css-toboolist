@@ -23,6 +23,10 @@ main {
     background-color: #f6f8f9;
 }
 
+.margin-l{
+    margin-left: 20px;
+}
+
 .cntr {
     width: 80%;
     margin: auto;
@@ -57,5 +61,7 @@ main {
     border: 1px solid #d0d5d8;
 }
 
-
+.textbig ::before {
+    content: "\27A5" ;
+}
 
