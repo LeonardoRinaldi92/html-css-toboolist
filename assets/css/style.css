@@ -125,28 +125,25 @@ background-color: #f29e33;
     background-color:#b0c926 ;
 }
 
-/* cerchio marchiocheck */
-.checked {
+.circle-mark {
     text-align: center;
     display: inline-block;
     width: 20px;
     height: 20px;
-    border: 2px solid green;
     border-radius: 50%;
-    color: green;
     line-height: 20px;
 }
-/* cerchi marchiouncheckd */
-.unchecked{
-    text-align: center;
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    border: 2px solid red;
-    border-radius: 50%;
-    color: red;
-    line-height: 20px;
 
+/* cerchio marchiocheck */
+.checked {
+    border: 2px solid green;
+    color: green;
+}
+/* cerchi marchiouncheckd */
+
+.unchecked {
+    border: 2px solid red;
+    color: red;
 }
 
 /* check */
