@@ -84,20 +84,24 @@ main {
     content: "\25bc" ;
     font-size: 18px;
 }
+
 /* fontgrandi */
 .textbig {
     font-size: 24px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 /* fontpiccoli */
 .textsmall {
     font-size: 18px;
 }
+
 /* spazio "li" */
 li  {
     margin-bottom: 20px;
 }
+
 /* formapillole */
 .pills {
     padding: 6px 10px;
